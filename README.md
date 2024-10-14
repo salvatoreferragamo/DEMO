@@ -1,6 +1,6 @@
 ## Datasets:
 PLOS (downloaded from http://www.nactem.ac.uk/readability/) and eLife (downloaded from https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
-and put them into the `datasets` folder.
+Please put them into the `datasets` folder.
 
 Then, use `data_process.ipynb` to process each dataset and obtain the corresponding data formats needed for each part (DIT/LPS/DCD).
 
