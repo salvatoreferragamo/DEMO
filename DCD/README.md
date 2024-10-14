@@ -17,4 +17,4 @@ Replace `transformers/src/transformers/generation/utils.py` with `generation_uti
 - A detailed list of arguments can be found at `src/test_performance_decoder.py`.
  
 
-***Attention: To comply with the anonymity policy, we replaced all original paths in the experimental code with relative paths or manually added paths to prevent the disclosure of the author's name or the name of their institution.***
+***Attention: We replaced all absolute paths in the experimental code with relative paths, requiring users to modify them according to their own directory structure.***
