@@ -5,7 +5,7 @@ Please put them into the `datasets` folder.
 Then, use `data_process.ipynb` to process each dataset and obtain the corresponding data formats needed for each part (DIT/LPS/DCD).
 
 ## QA Pairs:
-We provide 100 samples for each type of summaries on each dataset. (The whole doc will be released later...)
+We provide 100 samples for each type of summaries on each dataset. (TODO: the whole doc will be released later...)
 
 Include the `GPT-4-Turbo` generated golden QA pairs and our `QA pairs generator` predicted QA pairs.
 
@@ -18,7 +18,7 @@ We provide a chackpoint of our instruction tuned model with the strategy DIT.
 
 It should be noted that for rapid deployment and reproduction, the checkpoint is based on the 16K context window model `LongAlpaca-7B-16k`, which can achieve comparable performance while requiring less GPU memory.
 
-(The formal version will be released later...)
+(TODO: the formal version will be released later...)
 
 ## Some Results:
 We provide part of our models' results and baseline results on test set for a clearer comparison in `model_results`. 
