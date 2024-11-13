@@ -20,6 +20,11 @@ It should be noted that for rapid deployment and reproduction, the checkpoint is
 
 (TODO: the formal version will be released later...)
 
+
+## GPUs:
+All of our experiments are carried out using 4× NVIDIA A40 48G GPUs.
+
+
 ## Some Results:
 We provide part of our models' results and baseline results on test set for a clearer comparison in `model_results`. 
 
