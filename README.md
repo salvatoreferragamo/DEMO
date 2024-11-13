@@ -14,7 +14,7 @@ Please download the model `LongAlpaca-7B` from https://huggingface.co/Yukang/Lon
 
 
 ## Checkpoint:
-We provide a chackpoint of our instruction tuned model with the strategy DIT.
+We provide a chackpoint of our instruction tuned model with the strategy DIT (https://huggingface.co/hanqinyu/DEMO).
 
 It should be noted that for rapid deployment and reproduction, the checkpoint is based on the 16K context window model `LongAlpaca-7B-16k`, which can achieve comparable performance while requiring less GPU memory.
 
