@@ -44,3 +44,21 @@ The work of this project has been inspired and assisted by the following open-so
 * llamafactory: https://github.com/hiyouga/LLaMA-Factory
 * longlora: https://github.com/dvlab-research/LongLoRA
 * context aware decoding: https://github.com/zhichaoxu-shufe/context-aware-decoding-qfs
+
+## Citation
+
+If you find our work useful, please consider citing it as:
+
+```
+@article{HAN2025130858,
+title = {Reader Comes First: A Demand-Oriented Readability Controllable Summarization},
+journal = {Expert Systems with Applications},
+pages = {130858},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.130858},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425044732},
+author = {Qinyu Han and Yuanyuan Sun and Zhihao Yang and Wenfei Liu and Ling Luo and Hongfei Lin},
+keywords = {Controllable summarization, Document summarization, QA-assisted learning, Long-context modeling, Large language model},
+}
+```
